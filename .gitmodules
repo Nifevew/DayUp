@@ -1,0 +1,3 @@
+[submodule "DayUpAPI/todo_api"]
+	path = DayUpAPI/todo_api
+	url = git@github.com:luckydia/todo_api.git
