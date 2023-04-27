@@ -1,0 +1,37 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.gachimaster.data////PointingToDeclaration/app/com.example.gachimaster.data/index.html
+$dokka.location:com.example.gachimaster.data/SmallTask///PointingToDeclaration/app/com.example.gachimaster.data/-small-task/index.html
+$dokka.location:com.example.gachimaster.data/SmallTask/SmallTask/#/PointingToDeclaration/app/com.example.gachimaster.data/-small-task/-small-task.html
+$dokka.location:com.example.gachimaster.data/Task///PointingToDeclaration/app/com.example.gachimaster.data/-task/index.html
+$dokka.location:com.example.gachimaster.data/Task/Task/#/PointingToDeclaration/app/com.example.gachimaster.data/-task/-task.html
+$dokka.location:com.example.gachimaster.data/Task/favorit/#/PointingToDeclaration/app/com.example.gachimaster.data/-task/favorit.html
+$dokka.location:com.example.gachimaster.data/Task/id/#/PointingToDeclaration/app/com.example.gachimaster.data/-task/id.html
+$dokka.location:com.example.gachimaster.data/Task/isDone/#/PointingToDeclaration/app/com.example.gachimaster.data/-task/is-done.html
+$dokka.location:com.example.gachimaster.data/Task/name/#/PointingToDeclaration/app/com.example.gachimaster.data/-task/name.html
+$dokka.location:com.example.gachimaster.data/Task/underTasckList/#/PointingToDeclaration/app/com.example.gachimaster.data/-task/under-tasck-list.html
+$dokka.location:com.example.gachimaster.data/Task/zametka/#/PointingToDeclaration/app/com.example.gachimaster.data/-task/zametka.html
+$dokka.location:com.example.gachimaster.data/TaskAdapter///PointingToDeclaration/app/com.example.gachimaster.data/-task-adapter/index.html
+$dokka.location:com.example.gachimaster.data/TaskAdapter/TaskAdapter/#com.example.gachimaster.data.TaskListManegClass#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/app/com.example.gachimaster.data/-task-adapter/-task-adapter.html
+$dokka.location:com.example.gachimaster.data/TaskAdapter/getCount/#/PointingToDeclaration/app/com.example.gachimaster.data/-task-adapter/get-count.html
+$dokka.location:com.example.gachimaster.data/TaskAdapter/getItem/#kotlin.Int/PointingToDeclaration/app/com.example.gachimaster.data/-task-adapter/get-item.html
+$dokka.location:com.example.gachimaster.data/TaskAdapter/getItemId/#kotlin.Int/PointingToDeclaration/app/com.example.gachimaster.data/-task-adapter/get-item-id.html
+$dokka.location:com.example.gachimaster.data/TaskAdapter/getView/#kotlin.Int#android.view.View?#android.view.ViewGroup/PointingToDeclaration/app/com.example.gachimaster.data/-task-adapter/get-view.html
+$dokka.location:com.example.gachimaster.data/TaskAdapter/onClick/#android.view.View/PointingToDeclaration/app/com.example.gachimaster.data/-task-adapter/on-click.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass///PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/index.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/TaskListManegClass/#/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/-task-list-maneg-class.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/addTask/#com.example.gachimaster.data.Task/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/add-task.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/getID/#kotlin.Int/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/get-i-d.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/getSize/#/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/get-size.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/getTask/#kotlin.Int/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/get-task.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/switchFavorit/#com.example.gachimaster.data.Task/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/switch-favorit.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/switchReady/#com.example.gachimaster.data.Task/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/switch-ready.html
+$dokka.location:com.example.gachimaster.data/TaskListManegClass/tasks/#/PointingToDeclaration/app/com.example.gachimaster.data/-task-list-maneg-class/tasks.html
+$dokka.location:com.example.gachimaster////PointingToDeclaration/app/com.example.gachimaster/index.html
+$dokka.location:com.example.gachimaster/MainActivity///PointingToDeclaration/app/com.example.gachimaster/-main-activity/index.html
+$dokka.location:com.example.gachimaster/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.gachimaster/-main-activity/-main-activity.html
+$dokka.location:com.example.gachimaster/MainActivity/onCreateOptionsMenu/#android.view.Menu?/PointingToDeclaration/app/com.example.gachimaster/-main-activity/on-create-options-menu.html
+$dokka.location:com.example.gachimaster/MainActivity/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.gachimaster/-main-activity/on-options-item-selected.html
+com.example.gachimaster
+com.example.gachimaster.data
+
